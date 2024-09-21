@@ -1,0 +1,11 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "description": "Gets the latest image from the active mars rovers",
+  "main": "mars.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Adam Colvin",
+  "license": "ISC"
+}
