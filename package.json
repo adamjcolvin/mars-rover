@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Gets the latest image from the active mars rovers",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "start": "node src/index.js",
     "test": "jest"
